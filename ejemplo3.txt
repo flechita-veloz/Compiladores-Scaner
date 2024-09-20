@@ -1,0 +1,9 @@
+a: array[5] integer;
+b: array[1] integer = {18348928439028948298493283948294311};
+c: integer = 12hola;
+D: integer = )hijo;
+78abimael: array[100] = 28;
+false : interger = 1;
+// $abim
+a $ b @ c;
+
